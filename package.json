@@ -1,0 +1,19 @@
+{
+  "name": "spacechem-xyz",
+  "version": "0.0.1",
+  "description": "spacechem.xyz website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "gulp": "3.9.1",
+    "ws": "1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/researchnet/spacechem-xyz"
+  },
+  "license": "GPL3"
+}
