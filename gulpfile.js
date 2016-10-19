@@ -4,3 +4,5 @@ gulp.task('default', () => {
 	return gulp.src('source/**')
 		.pipe(gulp.dest('target'));
 });
+
+gulp.task('test', []);
